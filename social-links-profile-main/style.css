@@ -86,8 +86,7 @@ li a{
     border-radius: 8px;
     font-weight: 600;
 }
-a:hover {
-    background-color: var(--cor-verde);
-    color: var(--White);
+li a:hover {
+    color: var(--cor-verde);
     transition: 0.3s;
 }
